@@ -53,4 +53,4 @@ Follow the instructions below to set up and run the project locally.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/healthcare-dashboard.git
+   git clone https://github.com/Mrfarooqui038501/HealthcareSystem
